@@ -17,7 +17,7 @@ public class Util {
 
     public static String getParamNN(String param) {
         if (param == null) {
-            return "1";
+            return "";
         } else {
             return param;
         }
